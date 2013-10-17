@@ -1,0 +1,34 @@
+{
+  "name": "hexo-tag-gdriveimage",
+  "version": "1.0.0",
+  "description": "Inserts an image tag using a Google Drive image resource ID.",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sergiolepore/hexo-tag-gdriveimage.git"
+  },
+  "keywords": [
+    "website",
+    "blog",
+    "hexo",
+    "image",
+    "embed",
+    "google",
+    "drive"
+  ],
+  "author": {
+    "name": "Sergio Lepore",
+    "email": "sergio.d.lepore@gmail.com",
+    "url": "http://www.sergiolepore.net/"
+  },
+  "license": "BSD-3",
+  "engines": {
+    "hexo": ">= 1.0.0"
+  },
+  "dependencies": {
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/sergiolepore/hexo-tag-gdriveimage/issues"
+  }
+}
