@@ -25,7 +25,7 @@ plugins:
 
 How to get the `imageId`:
 
-![](http://drive.google.com/uc?export=view&id=0B5NCrwMAnvEzdEYzOWVuM3ZBWnc)
+![](http://i.minus.com/invDoVMdmtmCb.gif)
 
 Example:
 
