@@ -46,3 +46,6 @@ Classes must be comma-separated and without spaces. Same as JSONImageAttibutes.
 ### Known Issues
 
 * Fancybox does not work with Google Drive images :/
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sergiolepore/hexo-tag-gdriveimage/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
