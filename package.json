@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-gdriveimage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Inserts an image tag using a Google Drive image resource ID.",
   "main": "index",
   "repository": {
